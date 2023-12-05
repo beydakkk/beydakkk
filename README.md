@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br><br>⭐️I am third year student at Yıldız Technical University major in computer engineering.<br>🌱 I’m currently studying on NLP. <br>🙌🏻 I have experience in ML / DL techniques.<br>☄️ I have good knowledge of Object Oriented Programming.
+👋 Hi there!<br><br>⭐️I am forth year student at Yıldız Technical University major in computer engineering.<br>🌱 I’m currently studying on NLP and computer vision. <br>🙌🏻 I have experience in ML / DL techniques.<br>☄️ I have good knowledge of Object Oriented Programming.
 
 
 ## 🌐 Socials:
